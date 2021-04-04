@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. I am Hilmy, an Electrical Engineering student at Universitas Gadjah Mada who loves Linux and code. I usually use C and C++ for CTF, programming robots, and a few other things. However, I am currently studying Java, Kotlin, Python, and JavaScript by doing some projects.
+Hello. I am Hilmy, an Electrical Engineering student at Universitas Gadjah Mada who loves Linux and code. I usually use C and C++ for CTF, programming robots, and a few other things. I am currently studying Java, Kotlin, Python, and JavaScript by doing some projects.
