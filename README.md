@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my projects that have been pushed to production and you can try accessing them:
-- [hilmy.dev](https://hilmy.dev)
+- [Hilmy's Webpage](https://hilmy.dev)
+- [Hilmy's Blog](https://blog.hilmy.dev)
 - [skuy.uk URI shortener](https://skuy.uk)
 - [Root Finder](https://root-finder.hilmy.dev)
