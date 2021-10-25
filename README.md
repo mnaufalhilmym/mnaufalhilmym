@@ -1,4 +1,4 @@
-# 👋
+# Hello 👋
 
 <!--
 **mnaufalhilmym/mnaufalhilmym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. I am Hilmy, an Electrical Engineering student at Universitas Gadjah Mada who loves Linux and code. I usually use C and C++ for competitive programming, programming microcontrollers, and a few other things. I am currently studying Java, Kotlin, Python, and JavaScript by doing some projects.
+Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my projects that have been pushed to production and you can try accessing them:
+- [hilmy.dev](https://hilmy.dev)
+- [skuy.uk URI shortener](https://skuy.uk)
+- [Root Finder](https://root-finder.hilmy.dev)
