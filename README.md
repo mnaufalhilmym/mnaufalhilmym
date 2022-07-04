@@ -23,6 +23,7 @@ Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my self 
   - [Root Finder](https://root-finder.hilmy.dev)
   - [Pomodoro](https://pomodoro.hilmy.dev)
   - [Qur'an](https://quran.hilmy.dev)
+  - [Kraepelin Test (psychology)](https://kraepelin.hilmy.dev)
 
 <!--
 by collaboration:
