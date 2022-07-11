@@ -20,6 +20,7 @@ Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my self 
   - [Hilmy's Webpage](https://hilmy.dev)
   - [Hilmy's Blog](https://blog.hilmy.dev)
   - [alih.in URI shortener](https://alih.in)
+  - [l.hilmy.dev](https://l.hilmy.dev) (a rewrite of alih.in with simpler and faster loading)
   - [Root Finder](https://root-finder.hilmy.dev)
   - [Pomodoro](https://pomodoro.hilmy.dev)
   - [Qur'an](https://quran.hilmy.dev)
