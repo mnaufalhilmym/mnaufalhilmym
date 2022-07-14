@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my self projects that have been pushed to production and you can try accessing them:
+Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my projects that you can try to access:
 - Website:
   - [Hilmy's Webpage](https://hilmy.dev)
   - [Hilmy's Blog](https://blog.hilmy.dev)
@@ -24,7 +24,7 @@ Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my self 
   - [Root Finder](https://root-finder.hilmy.dev)
   - [Pomodoro](https://pomodoro.hilmy.dev)
   - [Qur'an](https://quran.hilmy.dev)
-  - [Kraepelin Test (psychology)](https://kraepelin.hilmy.dev)
+  - [Kraepelin Test](https://kraepelin.hilmy.dev)
 
 <!--
 by collaboration:
