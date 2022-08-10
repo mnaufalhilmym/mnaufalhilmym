@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my projects that you can try to access:
 - Website:
   - [Hilmy's Webpage](https://hilmy.dev)
@@ -25,6 +26,7 @@ Hello! I am Hilmy. Thanks for visiting my Github page. Here are some of my proje
   - [Pomodoro](https://pomodoro.hilmy.dev)
   - [Qur'an](https://quran.hilmy.dev)
   - [Kraepelin Test](https://kraepelin.hilmy.dev)
+-->
 
 <!--
 by collaboration:
@@ -33,5 +35,7 @@ by collaboration:
 - [Porsenigama UGM 2021](https://porsenigama-2021-fastpreview.vercel.app/)
 -->
 
+<!--
 - Flatpak App (Linux):
   - [Opera Browser (com.opera.Opera)](https://github.com/mnaufalhilmym/com.opera.Opera)
+-->
